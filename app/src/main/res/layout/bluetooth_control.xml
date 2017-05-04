@@ -1,0 +1,323 @@
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.testble.MainActivity" >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="Connectivity Control Bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Connectivity_Controls_Title"
+            android:textSize="30sp" />
+
+        <TextView
+            android:text="Mobile Data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mobileDataControlTitle"
+            android:textSize="30sp" />
+
+        <ToggleButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mobileDataOnOff" />
+
+        <TextView
+            android:text="Wi-Fi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/wifiControlTitle"
+            android:textSize="30sp" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/wifiOnOff" />
+
+        <TextView
+            android:text="Do Not Disturb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/doNotDisturbOnOffTitle"
+            android:textSize="30sp" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/doNotDisturbOnOff" />
+
+        <TextView
+            android:text="Location (GPS)"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/gpsControlTitle"
+            android:textSize="30sp" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/gpsOnOff" />
+
+        <TextView
+            android:text="Airplane Mode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/airplaneModeControlTitle"
+            android:textSize="30sp" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/airplaneModeOnOff" />
+
+        <TextView
+            android:text="Audio (Recording Controls)"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Audio_Record_Title"
+            android:textAlignment="textStart"
+            android:textSize="30sp" />
+
+        <Button
+            android:text="Record"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/audioRecordStartOne"
+            android:onClick="audioRecordStartOne" />
+
+        <Button
+            android:text="Stop "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/audioRecordStopOne"
+            android:onClick="audioRecordStopOne" />
+
+        <TextView
+            android:text="Audio (Playback Controls)"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Audio_Playback_Title"
+            android:textSize="30sp" />
+
+        <Button
+            android:text="Open File"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/audioPlaybackFileOpenOne"
+            android:onClick="audioPlaybackFileOpenOne" />
+
+        <ToggleButton
+            android:text="Loop // One Shot"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/audioPlaybackLoopOnOffOne"
+            android:textOn="Loop"
+            android:textOff="OneShot" />
+
+        <Button
+            android:text="Play"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/audioPlaybackStartOne"
+            android:onClick="audioPlaybackStartOne" />
+
+        <Button
+            android:text="Stop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/audioPlaybackStopOne"
+            android:onClick="audioPlaybackStopOne" />
+
+        <TextView
+            android:text="Metronome Controls"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Metronome_Controls"
+            android:textSize="30sp" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/metronomeOnOff" />
+
+        <TextView
+            android:text="Bpm: 100"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/metroBpmPrintOut"
+            android:textSize="30sp" />
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="200"
+            android:progress="100"
+            android:id="@+id/metronomeBpm" />
+
+        <TextView
+            android:text="Synth Controls"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Synth_Controls"
+            android:textSize="30sp" />
+
+        <TextView
+            android:text="Sine Wave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sineOscTitle"
+            android:textSize="26sp" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView9"
+            android:textSize="30sp" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView10"
+            android:textSize="30sp" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/midiNote"
+            android:visibility="invisible" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sineWaveOnOff" />
+
+        <TextView
+            android:text="Sawtooth Wave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sawWaveTitle"
+            android:textSize="26sp" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sawWaveOnOff" />
+
+        <TextView
+            android:text="Square Wave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/squareWaveTItle"
+            android:textSize="26sp" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/squareWaveOnOff" />
+
+        <TextView
+            android:text="Pulse Wave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pulseWaveTitle"
+            android:textSize="26sp"
+            android:visibility="visible" />
+
+        <ToggleButton
+            android:text="ToggleButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pulseWaveOnOff"
+            android:visibility="visible" />
+
+        <TextView
+            android:text="Pulse Width Control"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pulseWidthTitle"
+            android:textSize="26sp"
+            android:visibility="visible" />
+
+        <TextView
+            android:text="0.1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pulseWidthValue"
+            android:visibility="visible" />
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pulseWidthControl"
+            android:max="100"
+            android:progress="10"
+            android:visibility="visible" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/EffectControlTitle"
+            android:textSize="30sp"
+            android:text="Reverb Dry/Wet"
+            android:visibility="invisible" />
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/reverbDryWet"
+            android:max="100"
+            android:progress="0"
+            android:visibility="invisible" />
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/damp"
+            android:max="100"
+            android:progress="0"
+            android:visibility="invisible" />
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/roomsize"
+            android:max="100"
+            android:visibility="invisible" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView7" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView8" />
+
+    </LinearLayout>
+</ScrollView >

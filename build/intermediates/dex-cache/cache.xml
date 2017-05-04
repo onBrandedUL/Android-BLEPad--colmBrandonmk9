@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_3f5e7bd1692e2ffe4cab1681ba6d01e17742c6bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc6b430a07257e0783e58ac58b7969c9a14573b4">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0949f3936b5fc517ca46073cf0b4a36e4bbf8592/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_4f328f358ae8ba206b6d8fcde672658c972530f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-20.0.0_e92e421c34b889e8a3527255d732c99baf76884c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_935089843908f7c38de73667bbfce9ef705c93b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_ed43ec3cbc894ed7092c071083151a157bcf2731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cc3ed14f6e443277e006f1cbcd873ed40b8c1257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b005633340d545bb80f986cd1d4a5cc862367dde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1a9cfa746118865fba6e3bdaf7a824a6eeb506ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6d97df823ce1e193867d9c3d92136f60b786b3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_10e37727d4cb39a2819a55dff6a97c8c40893bf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_90416b05b833d1497e7dbd7966ead7bff18c4552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_4fb959583b0fa1d4f1b7125a0fb318c4c79de5c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_3ecd2927095ee0e0d1d4010c0e406fbc1bdf4105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_78ff51eb83aad6c72d2ab614f5b0d74bad43a1d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4eeb0f9af660c1a9ea113def8f17095e78df056e">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_72cafd999c96f6629443f686b0e62cf849796e59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5f014ae0eea77ca4751e28a665697614e0fec3d0/classes.dex" />
+    </item>
+
+</items>

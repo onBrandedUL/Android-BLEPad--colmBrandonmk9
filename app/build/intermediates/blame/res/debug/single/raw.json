@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/res/merged/debug/raw/synth.zip",
+        "source": "/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/src/main/res/raw/synth.zip"
+    },
+    {
+        "merged": "/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/res/merged/debug/raw/silence.wav",
+        "source": "/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/raw/silence.wav"
+    },
+    {
+        "merged": "/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/res/merged/debug/raw/extra_abs.zip",
+        "source": "/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/raw/extra_abs.zip"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Apr 24 17:15:11 IST 2017
+base.0=/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0949f3936b5fc517ca46073cf0b4a36e4bbf8592
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_72cafd999c96f6629443f686b0e62cf849796e59/classes.dex
+base.1=/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_72cafd999c96f6629443f686b0e62cf849796e59
+file.0=/Volumes/NO NAME/Android-BLEPad- colmBrandonmk9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0949f3936b5fc517ca46073cf0b4a36e4bbf8592/classes.dex
